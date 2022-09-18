@@ -1,0 +1,15 @@
+D:\IT\GB_FinalTask\С_sharp\С_sharp\bin\Debug\net6.0\С_sharp.exe
+D:\IT\GB_FinalTask\С_sharp\С_sharp\bin\Debug\net6.0\С_sharp.deps.json
+D:\IT\GB_FinalTask\С_sharp\С_sharp\bin\Debug\net6.0\С_sharp.runtimeconfig.json
+D:\IT\GB_FinalTask\С_sharp\С_sharp\bin\Debug\net6.0\С_sharp.dll
+D:\IT\GB_FinalTask\С_sharp\С_sharp\bin\Debug\net6.0\С_sharp.pdb
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\С_sharp.csproj.AssemblyReference.cache
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\С_sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\С_sharp.AssemblyInfoInputs.cache
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\С_sharp.AssemblyInfo.cs
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\С_sharp.csproj.CoreCompileInputs.cache
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\С_sharp.dll
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\refint\С_sharp.dll
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\С_sharp.pdb
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\С_sharp.genruntimeconfig.cache
+D:\IT\GB_FinalTask\С_sharp\С_sharp\obj\Debug\net6.0\ref\С_sharp.dll
