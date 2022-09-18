@@ -1,0 +1,3 @@
+﻿  C++.cpp
+D:\IT\GB_FinalTask\C++\C++\C++.cpp(21,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  C++.vcxproj -> D:\IT\GB_FinalTask\C++\x64\Debug\C++.exe
